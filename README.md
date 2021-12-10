@@ -14,7 +14,7 @@ In this project, I created a Python script to play the hourly music in the backg
 To run this code in your environment, you will need to:  
    * Install Python 3 and pip (https://www.python.org/).
    * Install ffmpeg for pydub (https://ffmpeg.org/).
-   * Install pydub: `pip3 install pydub` (https://pydub.com/).
+   * Install pydub & simpleaudio: `pip3 install -r requirements.txt`
    * Set up an account with OpenWeather and generate an API key (https://openweathermap.org/api).
 
 For a complete walkthrough of how this program works, you can go here: [Instructables Tutorial](https://www.instructables.com/Animal-Crossing-Music-Player/).
