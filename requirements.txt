@@ -1,2 +1,3 @@
 pydub
 simpleaudio
+python-dotenv
