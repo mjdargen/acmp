@@ -1,7 +1,7 @@
 # acmp (Animal Crossing Music Player) - main.py
 # Michael D'Argenio
 # mjdargen@gmail.com
-# https://dargenio.dev
+# https://dargen.io
 # https://github.com/mjdargen
 import os
 import time
