@@ -1,6 +1,6 @@
 # my edits
-aircheck/
-live/
+# aircheck/
+# live/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
